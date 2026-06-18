@@ -121,39 +121,9 @@ Interface technique entre développeurs et clients pour le déploiement de tests
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samir-Elkaddouri&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=e61919&icon_color=e61919&text_color=C9D1D9" />
-<img height="180" src="https://streak-stats.demolab.com?user=Samir-Elkaddouri&hide_border=true&background=0a0a0a&stroke=e61919&ring=e61919&fire=e61919&currStreakLabel=e61919&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Elkaddouri&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e61919&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samir-Elkaddouri&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-## Activité de contribution
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-Elkaddouri&bg_color=0a0a0a&color=e61919&line=e61919&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<!-- Nécessite l'action GitHub "snk" configurée dans le dépôt -->
-<img src="https://raw.githubusercontent.com/Samir-Elkaddouri/Samir-Elkaddouri/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
